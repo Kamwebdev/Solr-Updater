@@ -30,4 +30,4 @@ You can add an app to cron for daily calling
 ```
 0 1 * * * python /home/developer/solrUpdate.py
 ```
-Tested on python 2.7
+Tested on python 2.7 and Solr 8.6<
